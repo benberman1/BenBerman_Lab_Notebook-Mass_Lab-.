@@ -1,6 +1,6 @@
 *Open Science*
 
-My open lab notebook ([https://mass-lab.github.io/Open_Lab_Notebook_Mass_Lab/](https://github.com/benberman1/BenBerman_Lab_Notebook-Mass_Lab-..git)) contains important information and analyses related to my work on coral reef bioremediation carried out through the [Mass Lab](https://sites.google.com/marsci.haifa.ac.il/masslab/home?authuser=0/) (Coral Biomineralization and Physiology).
+My open lab notebook ([https://github.com/benberman1/BenBerman_Lab_Notebook-Mass_Lab-..git]) contains important information and analyses related to my work on coral reef bioremediation carried out through the [Mass Lab](https://sites.google.com/marsci.haifa.ac.il/masslab/home?authuser=0/) (Coral Biomineralization and Physiology).
 This notebook is platformed on GitHub and it is directly linked to GitHub repositories that contain further details presented in notebook posts. 
 
 <p align="center">
