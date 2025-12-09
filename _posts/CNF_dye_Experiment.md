@@ -9,7 +9,7 @@ Small fragments of corals no larger than 0.5 cm, in this case 4 from _Stylophora
 ###Results
 Successful incorperation of the CNF into coral tissues was observed through the fluorecence of the fluorecent dye under the microscope. Specific fluorecence lenses were applied to analyze the effect of the dye fluorecence under different wavelength colours. In each case, fluorence was present within the coral polyp.
 
-![CNF_0.5%+dye_wf_CNF_0.5%+dye_wf_RGB](./images/IMG_5122.PNG)
+![CNF_0.5%+dye_wf_CNF_0.5%+dye_wf_RGB](/Users/benberman/Documents/GitHub/BenBerman_Lab_Notebook-Mass_Lab/images/IMG_5122.png)
 
 ###Discussion
 The indication of successful polymer incorperation provides hope that this mechanism can be used to accurately and efficiently monitor the incorperation of substances and molecules, bound to the polymer, into coral and tracked using the fluorecent dye. 
